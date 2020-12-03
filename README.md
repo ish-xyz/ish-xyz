@@ -6,6 +6,8 @@
 
 [Trace a Python application with BCC](https://github.com/ish-xyz/ish-ar.io-tutorials/tree/master/tutorial-bcc-python3-profiler)
 
+[Using Kprobes]("https://github.com/ish-xyz/ish-ar.io-tutorials/tree/master/tutorial-kprobes")
+
 [Personal Blog](https://ish-ar.io)
 
 
