@@ -9,7 +9,6 @@ Through my personal blog and my GitHub account I aim to share the knowledge I'm 
 
 ![Isham's GitHub stats](https://github-readme-stats.vercel.app/api?username=ish-xyz&hide=["issues"]&show_icons=true)
 
-[![Linkedin Badge](https://img.shields.io/badge/-IshamAraia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isham-araia-086a986b/)](https://www.linkedin.com/in/isham-araia-086a986b/)
 <br>
 
 ### Projects you might like:
