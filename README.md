@@ -19,6 +19,9 @@ Cloud architectures design, automation tools programming, container orchestratio
 Through my personal blog and my GitHub account I aim to share the knowledge I'm gaining day to day, working on different major companies such as Just Eat, eBay, QBE and so on.
 
 
+![Isham's GitHub stats](https://github-readme-stats.vercel.app/api?username=ish-xyz&hide=["issues"]&show_icons=true)
+
+
 <!--
 **ish-xyz/ish-xyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
