@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm an engineer appasionated about the whole "cloud-native world".
-Cloud architectures design, automation tools programming, container orchestration, observability, and SRE practices are activities that have drawn much of my focus.
+Cloud architectures design, automation tools programming, container orchestration, observability, and SRE practices have taken much of my attention in the recent years.
 
 Through my personal blog and my GitHub account I aim to share the knowledge I'm gaining day to day, working on different major companies such as Just Eat, eBay, QBE and so on.
 <br>
