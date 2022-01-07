@@ -13,6 +13,8 @@ Through my personal blog and my GitHub account I aim to share the knowledge I'm 
 
 ### Projects you might like:
 
+[go-kubetest](https://github.com/ish-xyz/go-kubetest) -> a tool to run integration tests on Kubernetes
+
 [myStartup](https://github.com/ish-xyz/myStartup) -> K8s based platform for an imaginary startup
 
 [Trace a Python application with BCC](https://github.com/ish-xyz/ish-ar.io-tutorials/tree/master/tutorial-bcc-python3-profiler)
