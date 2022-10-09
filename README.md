@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 I'm an engineer with a strong passion for good tech :)
+<br>
 System programming, cloud architectures design, automation tools programming, container orchestration, observability, and SRE practices have taken much of my attention in the recent years.
 
 <br>
