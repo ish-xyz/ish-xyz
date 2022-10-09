@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-I'm an engineer appasionated about the whole "cloud-native world".
-Cloud architectures design, automation tools programming, container orchestration, observability, and SRE practices have taken much of my attention in the recent years.
+I'm an engineer with a strong passion for good tech :)
+System programming, cloud architectures design, automation tools programming, container orchestration, observability, and SRE practices have taken much of my attention in the recent years.
 
-Through my personal blog and my GitHub account I aim to share the knowledge I'm gaining day to day, working on different major companies such as Just Eat, eBay, YNAP and so on.
 <br>
 <br>
 
@@ -12,6 +11,8 @@ Through my personal blog and my GitHub account I aim to share the knowledge I'm 
 <br>
 
 ### Projects you might like:
+
+[dcache](https://github.com/ish-xyz/dcache): a distributed caching platform for HTTP based file servers
 
 [go-kubetest](https://github.com/ish-xyz/go-kubetest): a tool to run integration tests on Kubernetes
 
