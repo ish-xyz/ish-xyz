@@ -13,9 +13,9 @@ System programming, cloud architectures design, automation tools programming, co
 
 ### Projects you might like:
 
-[dcache](https://github.com/ish-xyz/dcache): a distributed caching platform for HTTP based file servers
+[registry-cache](https://github.com/ish-xyz/registry-cache): an high performance cache proxy for OCI images
 
-[go-kubetest](https://github.com/ish-xyz/go-kubetest): a tool to run integration tests on Kubernetes
+[kubetest](https://github.com/ish-xyz/kubetest): a tool to run integration tests on Kubernetes
 
 [myStartup](https://github.com/ish-xyz/myStartup): K8s based platform for an imaginary startup
 
@@ -23,7 +23,7 @@ System programming, cloud architectures design, automation tools programming, co
 
 [Using Kprobes](https://github.com/ish-xyz/ish-ar.io-tutorials/tree/master/tutorial-kprobes)
 
-[Personal Blog](https://ish-ar.io)
+[Personal Blog](https://ishamaraia.medium.com/)
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-IshamAraia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isham-araia-086a986b/)](https://www.linkedin.com/in/isham-araia-086a986b/)
