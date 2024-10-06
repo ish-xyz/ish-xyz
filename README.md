@@ -13,7 +13,7 @@ Modern HPC infrastructure, System programming, cloud architectures design, conta
 
 ### Projects you might like:
 
-[registry-cache](https://github.com/ish-xyz/registry-cache): an high performance cache proxy for OCI images
+[imgcache](https://github.com/ish-xyz/imgcache): an high performance cache proxy for OCI images
 
 [kubetest](https://github.com/ish-xyz/kubetest): a tool to run integration tests on Kubernetes
 
