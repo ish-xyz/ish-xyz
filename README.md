@@ -13,6 +13,8 @@ Modern HPC infrastructure, System programming, cloud architectures design, conta
 
 ### Projects you might like:
 
+[unfinished survival videogame in C++](https://github.com/ish-xyz/](https://github.com/ish-xyz/ue5-game): me trying and failing at developing games on my spare time...
+
 [imgcache](https://github.com/ish-xyz/imgcache): an high performance cache proxy for OCI images
 
 [kubetest](https://github.com/ish-xyz/kubetest): a tool to run integration tests on Kubernetes
